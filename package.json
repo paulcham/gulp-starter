@@ -1,0 +1,27 @@
+{
+  "name": "USFSplash",
+  "version": "1.0.0",
+  "description": "Splash page for UNICEF USFund Site for World Water Day",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Blue State Digital",
+  "license": "ISC",
+  "repository": "https://github.com/bsd/usf-splash-worldwaterday",
+  "devDependencies": {
+    "browser-sync": "^2.11.1",
+    "del": "^2.2.0",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-cssnano": "^2.1.0",
+    "gulp-jshint": "^2.0.0",
+    "gulp-notify": "^2.2.0",
+    "gulp-pxtorem": "^1.0.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.1.1",
+    "gulp-uglify": "^1.5.1",
+    "gulp-util": "^3.0.7",
+    "jshint": "^2.9.1"
+  }
+}
